@@ -1,5 +1,5 @@
 # Data-Mining-2
-Project for the course "Data Mining 2", Faculty of Mathematics Belgrade
+Project for the course "Data Mining 2", Faculty of Mathematics Belgrade.
 
 This project is a Python program created using Python libraries and a large dataset.
 
