@@ -6,5 +6,4 @@ This project is a Python program created using Python libraries and a large data
 The project contains implementations of the following algorithms:
 * **Spectral clustering**
 * **Agglomerative clustering**
-* **K-Means**
-* **DBSCAN**
+
